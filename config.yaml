@@ -28,5 +28,13 @@ sources:
       url: https://humanmade.com/feed/
     - name: Human Made
       url: https://humanmade.com/feed/
+    - name: AWS DevOps Feed
+      url: https://aws.amazon.com/blogs/devops/feed/
+    - name: Cloudflare
+      url: https://blog.cloudflare.com/rss
+    - name: Deezer
+      url: https://deezer.io/feed
+    - name: Netflix
+      url: https://netflixtechblog.com/feed
   youtube: []
   podcasts: []
