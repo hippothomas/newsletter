@@ -36,5 +36,7 @@ sources:
       url: https://deezer.io/feed
     - name: Netflix
       url: https://netflixtechblog.com/feed
+    - name: Michelin IT Engineering Blog
+      url: https://blogit.michelin.io/rss/
   youtube: []
   podcasts: []
