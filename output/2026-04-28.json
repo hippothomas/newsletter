@@ -1,0 +1,33 @@
+{
+  "generated_at": "2026-04-28T10:37:55Z",
+  "subject": "Adieu Vibe Coding, bonjour Agentic Engineering : l'heure de la rigueur a sonné",
+  "editorial": "Le développement assisté par intelligence artificielle traverse une crise de croissance salutaire. On sort enfin de l'ère du Vibe Coding, cette période d'expérimentation un peu floue où l'on jetait des idées à un LLM en espérant que le résultat soit fonctionnel par miracle. Cette approche, si elle a permis des gains de productivité initiaux, se heurte aujourd'hui au mur de la maintenance et de la fiabilité des projets d'envergure.\n\nLa montée en puissance du Specification-Driven Development (SDD) et de l'Agentic Engineering marque le retour de la rigueur architecturale. En plaçant la spécification précise au centre du processus, on ne demande plus à l'IA de deviner nos intentions, mais de réaliser une conception technique structurée. C'est un pivot majeur : la compétence clé du développeur de 2025 n'est plus la syntaxe, mais sa capacité à définir des contrats techniques et des limites claires pour des agents autonomes.\n\nCette structuration s'accompagne d'une industrialisation des outils, comme en témoigne la sortie de l'Agent Development Kit 2.0 de Google. En fournissant des bibliothèques stables pour Java et Go, les géants du secteur normalisent l'intégration des agents dans les systèmes d'entreprise. On ne bricole plus des scripts isolés, on construit des pipelines d'agents capables d'interagir avec des infrastructures complexes de manière prévisible.\n\nParallèlement, cette maturité se traduit par une gestion plus fine des ressources, qu'elles soient financières ou stratégiques. L'exemple de Mercure.rocks, qui réduit ses coûts cloud de près de 50 %, rappelle que l'agilité ne doit pas se faire au détriment de la rentabilité. De même, le passage de Google Workspace à des solutions comme KSuite montre une volonté croissante de reprendre le contrôle sur son écosystème de travail et ses données.\n\nEn résumé, le paysage technologique actuel nous pousse à devenir des architectes de plus haut niveau. Que ce soit pour piloter des agents IA, optimiser une infrastructure cloud ou choisir ses outils collaboratifs, la tendance est au discernement et à la structure. L'invitation est claire : il est temps de troquer l'enthousiasme naïf pour une ingénierie de précision.",
+  "highlights": [
+    {
+      "title": "Du Vibe Coding à l’Agentic Engineering : l'essor du SDD",
+      "source_name": "Flux YoanDev",
+      "source_url": "https://flux.yoandev.co/article/71e2693cb3e4/",
+      "analysis": "L'article explore la fin inévitable du Vibe Coding au profit d'une approche plus structurée appelée Specification-Driven Development. Ce changement de paradigme oblige les développeurs à redevenir des architectes précis plutôt que de simples testeurs de prompts. La maîtrise des documents de spécification devient ainsi l'outil ultime pour garantir la fiabilité du code généré par l'IA."
+    },
+    {
+      "title": "Optimisation Cloud : -47,5 % de coûts pour Mercure.rocks",
+      "source_name": "Flux YoanDev",
+      "source_url": "https://flux.yoandev.co/article/af5531cdac26/",
+      "analysis": "L'optimisation spectaculaire des coûts chez Mercure.rocks démontre qu'une analyse minutieuse de l'infrastructure peut générer des économies massives sans dégrader la performance. Dans un contexte où les budgets cloud explosent, cette approche méthodique sert de modèle pour concilier scalabilité et rentabilité. C'est une lecture indispensable pour quiconque gère des flux de données en temps réel à grande échelle."
+    }
+  ],
+  "resources": [
+    {
+      "title": "Sortie de l'Agent Development Kit 2.0, ADK-java 1.1 et Go 1.0",
+      "source_name": "Flux YoanDev",
+      "source_url": "https://flux.yoandev.co/article/e9a6e0daa81c/",
+      "summary": "Google lance l'ADK 2.0 et des versions stables pour Java et Go afin de faciliter le déploiement d'agents IA en entreprise."
+    },
+    {
+      "title": "Retour d'expérience : quitter Google Workspace pour KSuite",
+      "source_name": "Flux YoanDev",
+      "source_url": "https://flux.yoandev.co/article/21ad7aede0e2/",
+      "summary": "Un retour d'expérience complet sur la transition de Google Workspace vers l'écosystème souverain KSuite d'Infomaniak."
+    }
+  ]
+}
