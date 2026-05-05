@@ -38,7 +38,7 @@ sources:
       url: https://netflixtechblog.com/feed
     - name: Michelin IT Engineering Blog
       url: https://blogit.michelin.io/rss/
-  youtube: []
-  podcasts:
     - name: A la French
       url: https://feeds.acast.com/public/shows/a-la-french
+  youtube: []
+  podcasts: []
