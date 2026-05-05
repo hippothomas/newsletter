@@ -39,4 +39,6 @@ sources:
     - name: Michelin IT Engineering Blog
       url: https://blogit.michelin.io/rss/
   youtube: []
-  podcasts: []
+  podcasts:
+    - name: A la French
+      url: https://feeds.acast.com/public/shows/a-la-french
