@@ -42,5 +42,7 @@ sources:
       url: https://feeds.acast.com/public/shows/a-la-french
     - name: Jean-Baptiste Kempf Website
       url: https://jbkempf.com/index.xml
+    - name: Gabriel Mustiere — Blog
+      url: https://mustiere.fr/rss.xml
   youtube: []
   podcasts: []
