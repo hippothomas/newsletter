@@ -40,5 +40,7 @@ sources:
       url: https://blogit.michelin.io/rss/
     - name: A la French
       url: https://feeds.acast.com/public/shows/a-la-french
+    - name: Jean-Baptiste Kempf Website
+      url: https://jbkempf.com/index.xml
   youtube: []
   podcasts: []
