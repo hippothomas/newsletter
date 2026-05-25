@@ -28,8 +28,6 @@ sources:
       url: https://humanmade.com/feed/
     - name: AWS DevOps Feed
       url: https://aws.amazon.com/blogs/devops/feed/
-    - name: Cloudflare
-      url: https://blog.cloudflare.com/rss
     - name: Deezer
       url: https://deezer.io/feed
     - name: Netflix
@@ -44,5 +42,21 @@ sources:
       url: https://mustiere.fr/rss.xml
     - name: Kévin Dunglas - Blog
       url: https://dunglas.dev/feed/
+    - name: PHP Architect
+      url: https://www.phparch.com/feed/
+    - name: PHP Weekly
+      url: https://www.phpweekly.com/rss.xml
+    - name: De geek à directeur technique
+      url: https://www.geek-directeur-technique.com/feed
+    - name: Ihor Pronin - Blog
+      url: https://medium.com/feed/@pronin.ihor
+    - name: Bearstech
+      url: https://bearstech.com/atom_feed.xml
+    - name: Angristan
+      url: https://stanislas.blog/feed.xml
+    - name: Damyr
+      url: https://www.damyr.fr/index.xml
+    - name: Teddy Ferdinand
+      url: https://tferdinand.net/rss/
   youtube: []
   podcasts: []
