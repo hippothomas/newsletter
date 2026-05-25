@@ -26,8 +26,6 @@ sources:
       url: https://www.jesuisundev.com/feed/
     - name: Human Made
       url: https://humanmade.com/feed/
-    - name: Human Made
-      url: https://humanmade.com/feed/
     - name: AWS DevOps Feed
       url: https://aws.amazon.com/blogs/devops/feed/
     - name: Cloudflare
@@ -44,5 +42,7 @@ sources:
       url: https://jbkempf.com/index.xml
     - name: Gabriel Mustiere — Blog
       url: https://mustiere.fr/rss.xml
+    - name: Kévin Dunglas - Blog
+      url: https://dunglas.dev/feed/
   youtube: []
   podcasts: []
