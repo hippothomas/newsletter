@@ -14,49 +14,74 @@ sources:
   rss:
     - name: Flux YoanDev
       url: https://flux.yoandev.co/rss.xml
+
     - name: Brent Roose — Stitcher.io
       url: https://stitcher.io/rss
+
     - name: The PHP Foundation
       url: https://thephp.foundation/blog/feed.xml
+
     - name: Symfony Blog
       url: https://feeds.feedburner.com/symfony/blog
+
     - name: JoliCode Blog
       url: https://jolicode.com/feed.rss
+
     - name: Je suis un dev - Blog
       url: https://www.jesuisundev.com/feed/
+
     - name: Human Made
       url: https://humanmade.com/feed/
+
     - name: AWS DevOps Feed
       url: https://aws.amazon.com/blogs/devops/feed/
+
     - name: Deezer
       url: https://deezer.io/feed
+
     - name: Netflix
       url: https://netflixtechblog.com/feed
+
     - name: Michelin IT Engineering Blog
       url: https://blogit.michelin.io/rss/
+
     - name: A la French
       url: https://feeds.acast.com/public/shows/a-la-french
+
     - name: Jean-Baptiste Kempf Website
       url: https://jbkempf.com/index.xml
+
     - name: Gabriel Mustiere — Blog
       url: https://mustiere.fr/rss.xml
+
     - name: Kévin Dunglas - Blog
       url: https://dunglas.dev/feed/
+
     - name: PHP Architect
       url: https://www.phparch.com/feed/
+
     - name: PHP Weekly
       url: https://www.phpweekly.com/rss.xml
+
     - name: De geek à directeur technique
       url: https://www.geek-directeur-technique.com/feed
+
     - name: Ihor Pronin - Blog
       url: https://medium.com/feed/@pronin.ihor
+
     - name: Bearstech
       url: https://bearstech.com/atom_feed.xml
+
     - name: Angristan
       url: https://stanislas.blog/feed.xml
+
     - name: Damyr
       url: https://www.damyr.fr/index.xml
+
     - name: Teddy Ferdinand
       url: https://tferdinand.net/rss/
+
+    - name: Camille Roux
+      url: https://www.camilleroux.com/rss
   youtube: []
   podcasts: []
