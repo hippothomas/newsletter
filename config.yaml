@@ -12,9 +12,6 @@ mail:
 
 sources:
   rss:
-    - name: Flux YoanDev
-      url: https://flux.yoandev.co/rss.xml
-
     - name: Brent Roose — Stitcher.io
       url: https://stitcher.io/rss
 
@@ -23,6 +20,15 @@ sources:
 
     - name: Symfony Blog
       url: https://feeds.feedburner.com/symfony/blog
+
+    - name: Les-Tilleuls.coop
+      url: https://les-tilleuls.coop/feed.xml
+
+    - name: OCTO Talks
+      url: https://blog.octo.com/feed
+
+    - name: Grafikart
+      url: https://grafikart.fr/rss
 
     - name: JoliCode Blog
       url: https://jolicode.com/feed.rss
@@ -83,5 +89,23 @@ sources:
 
     - name: Camille Roux
       url: https://www.camilleroux.com/rss
+
+    - name: Michael Bensoussan
+      url: https://michaelbensoussan.com/posts/index.xml
+
+    - name: Smaïne Milianni
+      url: https://medium.com/feed/@smaine-milianni
+
+    - name: Pascal Martin
+      url: https://blog.pascal-martin.fr/index.xml
+
+    - name: Jérémy Decool
+      url: https://www.jdecool.fr/feed.xml
+
+    - name: Vincent Bernat
+      url: https://vincent.bernat.ch/fr/blog/atom.xml
+
+    - name: Marcel Moll
+      url: https://marcelmoll.dev/feed
   youtube: []
   podcasts: []
