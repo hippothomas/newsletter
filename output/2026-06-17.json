@@ -1,0 +1,33 @@
+{
+  "generated_at": "2026-06-17T10:01:26Z",
+  "subject": "Retail vs Tech : La fin du divorce entre architecture et stratégie",
+  "editorial": "Le mythe du géant du retail comme un dinosaure lent à la détente est en train de mourir sous nos yeux. Aujourd'hui, des entreprises historiques comme Decathlon ou ADEO opèrent avec la vélocité de pure players de la Silicon Valley. Ce qui change la donne, ce n'est pas seulement un budget marketing accru, mais une révolution profonde de leur colonne vertébrale technique où l'architecture dicte désormais la vitesse de mise sur le marché.\n\nLa clé de cette métamorphose réside dans un basculement radical du paradigme Make vs Buy. En choisissant de développer en interne plus de 70 % de leurs logiciels, ces entreprises cessent d'être de simples clients de solutions ERP rigides pour devenir des créateurs de valeur. Cette autonomie logicielle impose cependant une maturité technique exceptionnelle : il ne s'agit plus de construire des monolithes, mais des systèmes capables de supporter une croissance mondiale sans s'effondrer sous leur propre poids.\n\nC'est ici que l'architecture orientée événements (EDA) entre en scène comme le catalyseur indispensable. En utilisant des outils comme Amazon EventBridge pour orchestrer les flux de données, les entreprises parviennent à un découplage total entre producteurs et consommateurs. Cela signifie qu'une innovation sur la gestion des stocks peut être déployée sans risquer de paralyser le système d'encaissement. Le découplage n'est plus une simple bonne pratique de développeur, c'est devenu un levier de résilience métier indispensable pour survivre à la concurrence mondiale.\n\nLa mise en œuvre pratique de ces architectures, avec un usage intensif de files SQS et de Dead Letter Queues, montre que la fiabilité est devenue une priorité absolue. Capturer les changements en temps réel via le Change Data Capture (CDC) permet une synchronisation parfaite entre le monde physique et le monde numérique. Pour les ingénieurs, cela signifie que la gestion de l'échec et le rejeu des messages font désormais partie intégrante de la conception initiale, et non d'un correctif de dernière minute.\n\nL'avenir appartient aux organisations où le CTO n'est plus un simple exécutant technique mais un membre pivot du comité de direction. Pour les professionnels du secteur, l'enseignement est clair : la transformation numérique réussie passe par une culture d'ingénierie forte et une architecture découplée qui transforme la complexité technique en avantage concurrentiel. Ne subissez plus votre legacy, orchestrez son évolution vers l'événementiel.",
+  "highlights": [
+    {
+      "title": "La mutation technologique des géants du retail : le rôle du Global CTO",
+      "source_name": "A la French",
+      "source_url": "https://shows.acast.com/a-la-french/episodes/6a312522441ab5ca2258dedb",
+      "analysis": "Le passage d'une culture d'achat de solutions prêtes à l'emploi vers un développement interne massif (70 %) marque un tournant stratégique majeur. En intégrant le Global CTO au comité de direction, le retail transforme la tech en un avantage compétitif plutôt qu'en un simple centre de coûts. L'innersource et l'open source deviennent alors les piliers d'une culture d'ingénierie capable de rivaliser avec Amazon."
+    },
+    {
+      "title": "Architecture Event-Driven : Mise en œuvre pratique sur AWS",
+      "source_name": "OCTO Talks",
+      "source_url": "https://blog.octo.com/event-driven-architecture-chez-octo--episode-3-les-services-aws-et-la-config",
+      "analysis": "L'implémentation de l'EDA via AWS EventBridge illustre la maturité nécessaire pour gérer le découplage à grande échelle. L'utilisation systématique de SQS et des Dead Letter Queues (DLQ) n'est pas qu'un détail technique, c'est une police d'assurance contre la perte de données et les pannes en cascade. Le recours au CDC (Change Data Capture) permet enfin de moderniser des bases de données legacy sans perturber la production."
+    }
+  ],
+  "resources": [
+    {
+      "title": "Retail et Transformation Tech",
+      "source_name": "A la French",
+      "source_url": "https://shows.acast.com/a-la-french/episodes/6a312522441ab5ca2258dedb",
+      "summary": "Découvrez comment Decathlon et ADEO s'appuient sur le développement interne pour dominer le retail."
+    },
+    {
+      "title": "Pratique de l'EDA sur AWS",
+      "source_name": "OCTO Talks",
+      "source_url": "https://blog.octo.com/event-driven-architecture-chez-octo--episode-3-les-services-aws-et-la-config",
+      "summary": "Guide technique sur l'usage d'EventBridge et SQS pour une architecture AWS résiliente."
+    }
+  ]
+}
