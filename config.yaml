@@ -1,14 +1,8 @@
-gemini:
-  model: "gemini-3-flash-preview"
-
 newsletter:
-  language: fr
-  max_highlights: 5
   default_lookback: 48h
-  editorial_prompt: A casual, tech-savvy tone with a focus on practical insights.
 
 mail:
-  subject_prefix: "[DayBrief]"
+  subject_prefix: "[Newsletter]"
 
 sources:
   rss:
@@ -107,5 +101,3 @@ sources:
 
     - name: Marcel Moll
       url: https://marcelmoll.dev/feed
-  youtube: []
-  podcasts: []
