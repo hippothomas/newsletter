@@ -93,9 +93,6 @@ sources:
     - name: Pascal Martin
       url: https://blog.pascal-martin.fr/index.xml
 
-    - name: Jérémy Decool
-      url: https://www.jdecool.fr/feed.xml
-
     - name: Vincent Bernat
       url: https://vincent.bernat.ch/fr/blog/atom.xml
 
