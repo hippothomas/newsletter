@@ -104,3 +104,6 @@ sources:
 
     - name: ACSEO
       url: https://www.acseo.fr/feed/
+
+    - name: Andrew Kelley
+      url: https://andrewkelley.me/rss.xml
