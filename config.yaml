@@ -107,3 +107,9 @@ sources:
 
     - name: Tilia
       url: https://tilia.coop/feed/
+
+    - name: Anubis
+      url: https://anubis.techaro.lol/blog/atom.xml
+
+    - name: Xe Iaso
+      url: https://xeiaso.net/blog.rss
